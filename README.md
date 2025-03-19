@@ -1,4 +1,4 @@
-
+**Overview**
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. The app allows users to add, delete, and mark tasks as completed, helping them stay organized and manage their daily activities efficiently.
 
@@ -16,8 +16,9 @@ User-friendly interface
 
 **Technologies Used**
 
-**HTML**: Structure of the app
+HTML: Structure of the app
 
-**CSS**: Styling and layout
+CSS: Styling and layout
 
-**JavaScript**: Functionality and interactivity
+JavaScript: Functionality and interactivity
+
